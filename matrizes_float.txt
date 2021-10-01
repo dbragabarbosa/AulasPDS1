@@ -1,0 +1,6 @@
+
+2 5                         //numero de linhas e colunas de cada matriz -> indica que nas prox 2 linhas vão ter os dados da minha primeira matriz
+4.6 12.1 1.9 78.5 5.0            //primeira matriz 2x5
+98.2 9.8 194.9 0.6 52.3          //
+79.4 12.2 458.7 2.1 29.9                //segunda matriz 2x5
+47.5 19.3 784.8 12.7 8.4                //
